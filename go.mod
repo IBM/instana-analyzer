@@ -1,4 +1,4 @@
-module github.com/IBM/instana-analyzer/pkg/analyzer
+module github.com/IBM/instana-analyzer
 
 go 1.22.4
 
