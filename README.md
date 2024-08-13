@@ -18,13 +18,13 @@ e.g.
 ❯ grpcurl --plaintext localhost:8085 schema.v1.AnalyzerService/Run
 {
   "result": {
-    "name": "example",
+    "name": "diskuse",
     "error": [
       {
-        "text": "This is an example error message!"
+        "text": "Disk usage is 67"
       }
     ],
-    "details": "example"
+    "details": "Disk usage is 67"
   }
 }
 
